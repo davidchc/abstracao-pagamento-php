@@ -10,6 +10,7 @@ abstract class Payment
   public function __construct($paymentName, array $config = [])
   {
        $this->config = $config;
+       $this->paymentName = $paymentName;
   }
      
   abstract public function pay(array $order): PaymentResponse;
