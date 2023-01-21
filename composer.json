@@ -1,0 +1,14 @@
+{
+    "name": "david/payments",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "David CHC"
+        }
+    ],
+    "require": {}
+}
