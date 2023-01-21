@@ -11,8 +11,7 @@
 
 #### App\Core\Payment
 
-**-- Classe abstrata para definir metodo de pagamento**
-
+-- Classe abstrata para definir metodo de pagamento
   
 #### App\Core\PaymentResponse
 
